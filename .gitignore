@@ -65,3 +65,7 @@ crashlytics-build.properties
 *.mtl
 
 *.obj
+
+*.spp
+
+*.painter_lock
