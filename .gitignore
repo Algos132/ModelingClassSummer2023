@@ -69,3 +69,5 @@ crashlytics-build.properties
 *.spp
 
 *.painter_lock
+
+Textures/Textures/
